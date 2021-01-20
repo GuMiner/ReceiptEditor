@@ -8,6 +8,62 @@
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\BS"
   },
   {
+    "Name": "CBE 250",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\CBE250"
+  },
+  {
+    "Name": "CBE 320",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\CBE320"
+  },
+  {
+    "Name": "Chem 115",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Chem115"
+  },
+  {
+    "Name": "Chem 116",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Chem116"
+  },
+  {
+    "Name": "COE Shop",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\COEShop"
+  },
+  {
+    "Name": "CS 240",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\CS240"
+  },
+  {
+    "Name": "CS 252",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\CS252"
+  },
+  {
+    "Name": "CS 354",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\CS354"
+  },
+  {
+    "Name": "CS 412",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\CS412"
+  },
+  {
+    "Name": "CS 536",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\CS536"
+  },
+  {
+    "Name": "CS 537",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\CS537"
+  },
+  {
+    "Name": "CS 540",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\CS540"
+  },
+  {
+    "Name": "CS 577",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\CS577"
+  },
+  {
+    "Name": "CS 766",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\CS766"
+  },
+  {
     "Name": "CSREF",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\CSREF"
   },
@@ -16,8 +72,36 @@
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Design"
   },
   {
+    "Name": "ECE 252",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\ECE252"
+  },
+  {
+    "Name": "ECE 352",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\ECE352"
+  },
+  {
+    "Name": "ECE 376",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\ECE376"
+  },
+  {
     "Name": "Electronics",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Electronics"
+  },
+  {
+    "Name": "EPD 275",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\EPD275"
+  },
+  {
+    "Name": "EPD 397",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\EPD397"
+  },
+  {
+    "Name": "EPD 690",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\EPD690"
+  },
+  {
+    "Name": "HPVC",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\HPVC"
   },
   {
     "Name": "HS",
@@ -40,8 +124,116 @@
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Library"
   },
   {
+    "Name": "Math 222",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Math222"
+  },
+  {
+    "Name": "Math 234",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Math234"
+  },
+  {
+    "Name": "Math 319",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Math319"
+  },
+  {
+    "Name": "Math 321",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Math321"
+  },
+  {
+    "Name": "ME 231",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\ME231"
+  },
+  {
+    "Name": "ME 361",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\ME361"
+  },
+  {
+    "Name": "MS&E 350",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\MSE350"
+  },
+  {
     "Name": "Museums",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Museums"
+  },
+  {
+    "Name": "NE 234",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\NE234"
+  },
+  {
+    "Name": "NE 305",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\NE305"
+  },
+  {
+    "Name": "NE 405",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\NE405"
+  },
+  {
+    "Name": "NE 408",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\NE408"
+  },
+  {
+    "Name": "NE 411",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\NE411"
+  },
+  {
+    "Name": "NE 412",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\NE412"
+  },
+  {
+    "Name": "NE 427",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\NE427"
+  },
+  {
+    "Name": "NE 428",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\NE428"
+  },
+  {
+    "Name": "NE 571",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\NE571"
+  },
+  {
+    "Name": "Physics 201",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Physics201"
+  },
+  {
+    "Name": "Physics 202",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Physics202"
+  },
+  {
+    "Name": "Physics 241",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Physics241"
+  },
+  {
+    "Name": "Physics 241",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Physics241"
+  },
+  {
+    "Name": "Physics 308",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Physics308"
+  },
+  {
+    "Name": "Physics 311",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Physics311"
+  },
+  {
+    "Name": "Physics 322",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Physics322"
+  },
+  {
+    "Name": "Physics 415",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Physics415"
+  },
+  {
+    "Name": "Physics 525",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Physics525"
+  },
+  {
+    "Name": "Physics 527",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Physics527"
+  },
+  {
+    "Name": "Pol Sci 209",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\PolSci209"
   },
   {
     "Name": "R-76",
@@ -232,10 +424,6 @@
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\Cactus"
   },
   {
-    "Name": "R-Cafe36",
-    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\Cafe36"
-  },
-  {
     "Name": "R-CafeZoot",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\CafeZoot"
   },
@@ -370,10 +558,6 @@
   {
     "Name": "R-DiamondParking",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\DiamondParking"
-  },
-  {
-    "Name": "R-Dickeys",
-    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\Dickeys"
   },
   {
     "Name": "R-DicksSportingGoods",
@@ -568,10 +752,6 @@
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\HarborFreightTools"
   },
   {
-    "Name": "R-HenrysTavern",
-    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\HenrysTavern"
-  },
-  {
     "Name": "R-HighMountainBrewing",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\HighMountainBrewing"
   },
@@ -648,10 +828,6 @@
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\IyaraThai"
   },
   {
-    "Name": "R-JackInTheBox",
-    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\JackInTheBox"
-  },
-  {
     "Name": "R-JayBerrysPizza",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\JayBerrysGormetPizza"
   },
@@ -722,10 +898,6 @@
   {
     "Name": "R-LivingComputerMuseum",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\LivingComputerMuseum"
-  },
-  {
-    "Name": "R-LovesConvenience",
-    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\Loves"
   },
   {
     "Name": "R-LunchboxLab",
@@ -1184,10 +1356,6 @@
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\StarCinema"
   },
   {
-    "Name": "R-StevensPass",
-    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\StevensPass"
-  },
-  {
     "Name": "R-StoneKorean",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\StoneKorean"
   },
@@ -1206,10 +1374,6 @@
   {
     "Name": "R-SumoSushi",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\SumoSushi"
-  },
-  {
-    "Name": "R-SushiKanpai",
-    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\SushiKanpai"
   },
   {
     "Name": "R-SushiMe",
@@ -1420,10 +1584,6 @@
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\WhitePass"
   },
   {
-    "Name": "R-WholeFoods",
-    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\WholeFoods"
-  },
-  {
     "Name": "R-Wibbleys",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\Wibbleys"
   },
@@ -1462,6 +1622,10 @@
   {
     "Name": "TrailsOfRedmond",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\TrailsOfRedmond"
+  },
+  {
+    "Name": "University",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\University"
   },
   {
     "Name": "Unknown",

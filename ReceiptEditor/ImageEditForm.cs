@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Drawing;
 using System.Drawing.Imaging;
 using System.IO;
@@ -14,12 +15,16 @@ namespace ReceiptEditor
         private Action<int> rotateAction;
         private Action hideCallback;
 
+        private List<ImageCategory> imageCategories;
+
         public ImageEditForm(int subImageId, Action<ImageAttributes> editCallback, Func<Bitmap> getImageCallback, Action<int> rotateAction, Action hideCallback)
         {
             InitializeComponent();
             this.Text = $"Categorization - {subImageId}";
-            this.categoryBox.DataSource = ReceiptEditor.ImageCategories;
 
+            imageCategories = ImageCategory.LoadImageCategories(); // Silly reloading to avoid touching the original.
+            this.categoryBox.DataSource = imageCategories;
+            
             this.editCallback = editCallback;
             this.getImageCallback = getImageCallback;
             this.rotateAction = rotateAction;
@@ -101,12 +106,19 @@ namespace ReceiptEditor
             categoryBox.DataSource = null;
             categoryBox.DataSource = ReceiptEditor.ImageCategories;
             categoryBox.SelectedItem = category;
+
             ImageCategory.SaveImageCategories(ReceiptEditor.ImageCategories);
+            imageCategories = ImageCategory.LoadImageCategories();
         }
 
         private void rotateButton_Click(object sender, EventArgs e)
         {
             this.rotateAction(1);
+        }
+
+        private void categoryFilter_TextChanged(object sender, EventArgs e)
+        {
+            this.categoryBox.DataSource = imageCategories.Where(cat => cat.Name.IndexOf(categoryFilter.Text, StringComparison.OrdinalIgnoreCase) != -1).ToList();
         }
     }
 }

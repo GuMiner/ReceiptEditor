@@ -30,6 +30,7 @@
         {
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.imageBox = new System.Windows.Forms.PictureBox();
+            this.shardedStatusTextBox = new System.Windows.Forms.TextBox();
             this.imageNameBox = new System.Windows.Forms.TextBox();
             this.imageFolderBox = new System.Windows.Forms.TextBox();
             this.nextButton = new System.Windows.Forms.Button();
@@ -39,7 +40,6 @@
             this.receiptFolderBox = new System.Windows.Forms.TextBox();
             this.scanButton = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
-            this.shardedStatusTextBox = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -94,6 +94,15 @@
             this.imageBox.MouseMove += new System.Windows.Forms.MouseEventHandler(this.imageBox_MouseMove);
             this.imageBox.MouseUp += new System.Windows.Forms.MouseEventHandler(this.imageBox_MouseUp);
             // 
+            // shardedStatusTextBox
+            // 
+            this.shardedStatusTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.shardedStatusTextBox.Location = new System.Drawing.Point(6, 113);
+            this.shardedStatusTextBox.Name = "shardedStatusTextBox";
+            this.shardedStatusTextBox.ReadOnly = true;
+            this.shardedStatusTextBox.Size = new System.Drawing.Size(248, 20);
+            this.shardedStatusTextBox.TabIndex = 9;
+            // 
             // imageNameBox
             // 
             this.imageNameBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
@@ -139,7 +148,7 @@
             this.processedFolderBox.Name = "processedFolderBox";
             this.processedFolderBox.Size = new System.Drawing.Size(169, 20);
             this.processedFolderBox.TabIndex = 4;
-            this.processedFolderBox.Text = "C:\\Users\\Gustave\\Desktop\\Data Archive\\processed_receipts";
+            this.processedFolderBox.Text = "C:\\Users\\Gustave\\Desktop\\processed_receipts";
             // 
             // label2
             // 
@@ -158,7 +167,7 @@
             this.receiptFolderBox.Name = "receiptFolderBox";
             this.receiptFolderBox.Size = new System.Drawing.Size(169, 20);
             this.receiptFolderBox.TabIndex = 2;
-            this.receiptFolderBox.Text = "C:\\Users\\Gustave\\Desktop\\Data Archive\\receipts";
+            this.receiptFolderBox.Text = "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\scansToProcess";
             // 
             // scanButton
             // 
@@ -180,15 +189,6 @@
             this.label1.Size = new System.Drawing.Size(76, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "Receipt Folder";
-            // 
-            // shardedStatusTextBox
-            // 
-            this.shardedStatusTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.shardedStatusTextBox.Location = new System.Drawing.Point(6, 113);
-            this.shardedStatusTextBox.Name = "shardedStatusTextBox";
-            this.shardedStatusTextBox.ReadOnly = true;
-            this.shardedStatusTextBox.Size = new System.Drawing.Size(248, 20);
-            this.shardedStatusTextBox.TabIndex = 9;
             // 
             // ReceiptEditor
             // 

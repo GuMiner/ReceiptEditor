@@ -40,6 +40,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.rotateButton = new System.Windows.Forms.Button();
+            this.categoryFilter = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.brightnessTrackbar)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.contrastTrackBar)).BeginInit();
             this.SuspendLayout();
@@ -160,11 +162,30 @@
             this.rotateButton.UseVisualStyleBackColor = true;
             this.rotateButton.Click += new System.EventHandler(this.rotateButton_Click);
             // 
+            // categoryFilter
+            // 
+            this.categoryFilter.Location = new System.Drawing.Point(193, 446);
+            this.categoryFilter.Name = "categoryFilter";
+            this.categoryFilter.Size = new System.Drawing.Size(175, 20);
+            this.categoryFilter.TabIndex = 18;
+            this.categoryFilter.TextChanged += new System.EventHandler(this.categoryFilter_TextChanged);
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(190, 430);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(74, 13);
+            this.label2.TabIndex = 19;
+            this.label2.Text = "Category Filter";
+            // 
             // ImageEditForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(411, 507);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.categoryFilter);
             this.Controls.Add(this.rotateButton);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label1);
@@ -200,5 +221,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button rotateButton;
+        private System.Windows.Forms.TextBox categoryFilter;
+        private System.Windows.Forms.Label label2;
     }
 }
