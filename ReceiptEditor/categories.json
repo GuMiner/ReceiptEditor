@@ -20,6 +20,10 @@
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Electronics"
   },
   {
+    "Name": "Home",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\Home"
+  },
+  {
     "Name": "HS",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\HS"
   },
@@ -66,6 +70,10 @@
   {
     "Name": "R-AEBike",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\AEBike"
+  },
+  {
+    "Name": "R-AgaveCocina",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\AgaveCocina"
   },
   {
     "Name": "R-AlaskaAir",
@@ -118,6 +126,10 @@
   {
     "Name": "R-BaiTong",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\BaiTong"
+  },
+  {
+    "Name": "R-Bakkers",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\Bakkers"
   },
   {
     "Name": "R-BarenHaus",
@@ -480,8 +492,16 @@
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\Fazolis"
   },
   {
+    "Name": "R-Fedex",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\Fedex"
+  },
+  {
     "Name": "R-FeedCo",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\FeedCo"
+  },
+  {
+    "Name": "R-FinsBistro",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\FinsBistro"
   },
   {
     "Name": "R-Firenze",
@@ -558,6 +578,10 @@
   {
     "Name": "R-HaagenDazPizza",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\HaagenDazPizza"
+  },
+  {
+    "Name": "R-HaikuBuffet",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\HaikuBuffet"
   },
   {
     "Name": "R-HalfPriceBooks",
@@ -676,6 +700,10 @@
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\Kanishka"
   },
   {
+    "Name": "R-KatsuBurger",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\KatsuBurger"
+  },
+  {
     "Name": "R-KFC",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\KFC"
   },
@@ -756,6 +784,18 @@
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\Mallards"
   },
   {
+    "Name": "R-MaltbyCafe",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\MaltbyCafe"
+  },
+  {
+    "Name": "R-MammothResorts",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\MammothResorts"
+  },
+  {
+    "Name": "R-MammothTavern",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\MammothTavern"
+  },
+  {
     "Name": "R-ManchuWok",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\ManchuWok"
   },
@@ -812,12 +852,20 @@
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\MediterraneanKitchen"
   },
   {
+    "Name": "R-MeetFresh",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\MeetFresh"
+  },
+  {
     "Name": "R-MegaMediaXchange",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\MegaMediaXchange"
   },
   {
     "Name": "R-MerlinsBarAndGrill",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\MerlinsBarAndGrill"
+  },
+  {
+    "Name": "R-MiahsKitchen",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\MiahsKitchen"
   },
   {
     "Name": "R-Michaels",
@@ -872,6 +920,10 @@
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\NibbanaThai"
   },
   {
+    "Name": "R-NineWay",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\NineWay"
+  },
+  {
     "Name": "R-NobleCourt",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\NobleCourt"
   },
@@ -892,12 +944,20 @@
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\OhIndia"
   },
   {
+    "Name": "R-OilAndVinegarCellar",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\OilAndVinegarCellar"
+  },
+  {
     "Name": "R-OldSpaghettiFactory",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\OldSpaghettiFactory"
   },
   {
     "Name": "R-OliveGarden",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\OliveGarden"
+  },
+  {
+    "Name": "R-Olmstead",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\Olmstead"
   },
   {
     "Name": "R-OnlineMetals",
@@ -910,6 +970,10 @@
   {
     "Name": "R-OrchardCountyWinery",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\OrchardCountyWineryAndMarket"
+  },
+  {
+    "Name": "R-OReilly",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\OReilly"
   },
   {
     "Name": "R-OriginalJoes",
@@ -960,6 +1024,14 @@
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\PerformanceBike"
   },
   {
+    "Name": "R-PFChangs",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\PFChangs"
+  },
+  {
+    "Name": "R-PizzaCoop",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\PizzaCoop"
+  },
+  {
     "Name": "R-PizzaHut",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\PizzaHut"
   },
@@ -1002,6 +1074,10 @@
   {
     "Name": "R-Printrbot",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\Printrbot"
+  },
+  {
+    "Name": "R-Pumphouse",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\Pumphouse"
   },
   {
     "Name": "R-PurpleCafe",
@@ -1144,6 +1220,10 @@
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\SizzlePieWest"
   },
   {
+    "Name": "R-SlocumsGrillAndBar",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\SlocumsGrillAndBar"
+  },
+  {
     "Name": "R-SoundMicrosystems",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\SoundMicrosystems"
   },
@@ -1194,6 +1274,10 @@
   {
     "Name": "R-StudioH",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\StudioH"
+  },
+  {
+    "Name": "R-Sturtevants",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\Sturtevants"
   },
   {
     "Name": "R-Subway",
@@ -1270,6 +1354,10 @@
   {
     "Name": "R-ThaiVp",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\ThaiVP"
+  },
+  {
+    "Name": "R-ThaiWoodinville",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\ThaiWoodinville"
   },
   {
     "Name": "R-TheMexicanCorner",
@@ -1374,6 +1462,10 @@
   {
     "Name": "R-VisionPlusRedmond",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\VisionPlusRedmond"
+  },
+  {
+    "Name": "R-Vors",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\Vors"
   },
   {
     "Name": "R-WaDcMetro",
