@@ -82,7 +82,7 @@ namespace ReceiptEditor
             }
 
             Bitmap imageToSave = this.getImageCallback();
-            imageToSave.Save(fileName);
+            imageToSave.Save(fileName, ImageFormat.Jpeg);
             imageToSave.Dispose();
 
             ++ReceiptEditor.FilesSharded;

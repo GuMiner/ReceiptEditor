@@ -228,6 +228,12 @@ namespace ReceiptEditor
             }
 
             // Advance to the next image.
+            if (!this.filesToProcess.Any())
+            {
+                MessageBox.Show("No more scans to process!");
+                return;
+            }
+
             this.currentFileName = this.filesToProcess.Dequeue();
             using (FileStream stream = new FileStream(this.currentFileName, FileMode.Open, FileAccess.Read))
             {

@@ -348,6 +348,10 @@
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\Costco"
   },
   {
+    "Name": "R-CrackerBarrel",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\CrackerBarrel"
+  },
+  {
     "Name": "R-CreeksideMarket",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\CreeksideMarket"
   },
@@ -530,6 +534,10 @@
   {
     "Name": "R-FiveGuys",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\FiveGuys"
+  },
+  {
+    "Name": "R-Frankies",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\Frankies"
   },
   {
     "Name": "R-FredMeyer",
@@ -1476,6 +1484,10 @@
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\USNationalForest"
   },
   {
+    "Name": "R-USPS",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\USPS"
+  },
+  {
     "Name": "R-UWBookstore",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\UWBookstore"
   },
@@ -1518,6 +1530,10 @@
   {
     "Name": "R-WaDeptLicense",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\WaDeptOfLicensing"
+  },
+  {
+    "Name": "R-Waffler",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\Waffler"
   },
   {
     "Name": "R-Walgreens",
@@ -1578,6 +1594,10 @@
   {
     "Name": "R-Witness",
     "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\Witness"
+  },
+  {
+    "Name": "R-Woodblock",
+    "Folder": "C:\\Users\\Gustave\\Desktop\\Data Archive\\scans\\receipts\\Woodblock"
   },
   {
     "Name": "R-WoodlandParkZoo",
