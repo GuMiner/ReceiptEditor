@@ -140,6 +140,11 @@ namespace ReceiptEditor
                 {
 
                     this.filesToProcess = this.FindFiles(this.receiptFolderBox.Text);
+
+                    if (!Directory.Exists(this.processedFolderBox.Text))
+                    {
+                        Directory.CreateDirectory(this.processedFolderBox.Text);
+                    }
                     this.IterateFiles(this.processedFolderBox.Text, (file) => ++this.filesProcessed);
 
                     foreach (ImageCategory category in ReceiptEditor.ImageCategories)
