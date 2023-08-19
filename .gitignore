@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# data files
+parsedFiles.json
+
+# parsing files, interface still included
+Parsing/
+
 # User-specific files
 *.suo
 *.user
