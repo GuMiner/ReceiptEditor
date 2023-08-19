@@ -109,7 +109,7 @@ namespace ExpenseTracker
                         });
 
                         expenseAmountRemaining -= splitAmount;
-                        this.expenseAmountTextBox.Text = expenseAmountRemaining.ToString(); // TODO observables?
+                        this.expenseAmountTextBox.Text = expenseAmountRemaining.ToString();
                     }
                 }
                 else

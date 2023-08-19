@@ -99,6 +99,13 @@ namespace ExpenseTracker {
         private void LoadExpenseFiles()
         {
             string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+
+            List<IExpenseParser> baParsers = new List<IExpenseParser>()
+            {
+                new BAExpenseParser(),
+            };
+            ParseWithParsers("BankOfAmerica", $@"{desktopPath}\spending-analyze\ba", data.Expenses, baParsers);
+
             List<IExpenseParser> ftParsers = new List<IExpenseParser>()
             {
                 new FTCCExpenseParser(),
