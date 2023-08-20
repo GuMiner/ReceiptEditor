@@ -103,6 +103,7 @@ namespace ExpenseTracker {
             List<IExpenseParser> baParsers = new List<IExpenseParser>()
             {
                 new BAExpenseParser(),
+                new BACCExpenseParser(),
             };
             ParseWithParsers("BankOfAmerica", $@"{desktopPath}\spending-analyze\ba", data.Expenses, baParsers);
 

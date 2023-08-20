@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ExpenseTracker"
         mc:Ignorable="d"
-        Title="CategoryAssigner" Height="442" Width="398" MinWidth="390" MinHeight="307">
+        Title="CategoryAssigner" Height="628" Width="403" MinWidth="390" MinHeight="307">
     <Grid>
         <Rectangle Margin="10,176,0,0" Stroke="Black" HorizontalAlignment="Left" Width="162" Height="105" VerticalAlignment="Top"/>
 
@@ -17,17 +17,17 @@
         <ListBox x:Name="assignedCategoriesListBox" Margin="10,88,0,0" ScrollViewer.CanContentScroll="True" HorizontalAlignment="Left" Width="162" Height="72" VerticalAlignment="Top"/>
         <Label Content="Categories" Margin="248,37,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="68" RenderTransformOrigin="0.295,-0.276"/>
         <CheckBox x:Name="customSplitCheckBox" Content="Custom Split" HorizontalAlignment="Left" Margin="23,186,0,0" Height="15" VerticalAlignment="Top"/>
-        <Button x:Name="saveButton" Content="Save" Margin="0,366,10,0" Click="saveButton_Click" Height="20" VerticalAlignment="Top" HorizontalAlignment="Right" Width="29"/>
+        <Button x:Name="saveButton" Content="Save" Margin="0,0,10,40" Click="saveButton_Click" HorizontalAlignment="Right" Width="29" Height="20" VerticalAlignment="Bottom"/>
         <TextBox x:Name="expenseRegex" HorizontalAlignment="Left" Margin="23,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="127"/>
         <Label Content="Expense Regex" HorizontalAlignment="Left" Margin="23,218,0,0" VerticalAlignment="Top"/>
-        <ListBox x:Name="currentCategories" Margin="199,92,16,0" ScrollViewer.CanContentScroll="True" Height="216" VerticalAlignment="Top"/>
-        <Label Content="Search" Margin="199,61,0,339" HorizontalAlignment="Left" Width="52" RenderTransformOrigin="0.295,-0.276" FontStyle="Italic"/>
+        <ListBox x:Name="currentCategories" Margin="199,92,16,118" ScrollViewer.CanContentScroll="True"/>
+        <Label Content="Search" Margin="199,61,0,0" HorizontalAlignment="Left" Width="52" RenderTransformOrigin="0.295,-0.276" FontStyle="Italic" Height="27" VerticalAlignment="Top"/>
         <TextBox x:Name="categorySearch" Margin="252,65,16,0" TextWrapping="Wrap" VerticalAlignment="Top" TextChanged="categorySearch_TextChanged"/>
         <Button x:Name="addCategoryButton" Content="Add New" Margin="316,40,16,0" VerticalAlignment="Top" Click="addCategoryButton_Click"/>
-        <Button x:Name="assignCategoryButton" Content="Assign Category" Margin="0,341,10,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="98" Click="assignCategoryButton_Click"/>
-        <Label Content="Amount" Margin="0,309,105,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="52"/>
-        <TextBox x:Name="categoryAmountTextBox" Margin="0,313,15,0" TextWrapping="Wrap" VerticalAlignment="Top" HorizontalAlignment="Right" Width="82"/>
-        <Button x:Name="maxButton" Content="Max" Margin="0,316,157,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="42" Click="maxButton_Click"/>
+        <Button x:Name="assignCategoryButton" Content="Assign Category" Margin="0,0,10,65" HorizontalAlignment="Right" Width="98" Click="assignCategoryButton_Click" Height="20" VerticalAlignment="Bottom"/>
+        <Label Content="Amount" Margin="0,0,105,91" HorizontalAlignment="Right" Width="52" Height="26" VerticalAlignment="Bottom"/>
+        <TextBox x:Name="categoryAmountTextBox" Margin="0,0,15,95" TextWrapping="Wrap" HorizontalAlignment="Right" Width="82" Height="18" VerticalAlignment="Bottom"/>
+        <Button x:Name="maxButton" Content="Max" Margin="0,0,157,90" HorizontalAlignment="Right" Width="42" Click="maxButton_Click" Height="20" VerticalAlignment="Bottom"/>
 
     </Grid>
 </Window>
